@@ -1,0 +1,35 @@
+{"shell": 
+
+{"recipe": "bad-ass tortillas\n=====================\n\nIf you are making tacos, don't settle for corporate store bought tortillas. Make your own like a real person!\n\nFirst get a cast iron pan:\n\n![](./pan.jpg)\n\nand then one of these bad-ass tortilla presses:\n\n![](./tortillador.jpg)\n\nBuy your lard from a place like this:\n\n![](./store.jpg)\n\n* 2 cups all purpose flour\n* 1/4 cup lard (cut into lil' pieces)\n* 1 teaspoon kosher salt\n* 2/3 tablespoon oil\n* 1/2 cup water (luke warm)\n\nMix all ingredients together except oil and water. Drizzle oil over mixture and mix with hands. Add water and mix and knead again until doughy. Let chill for about an hour in plastic wrappers.\n\nHeat large cast iron skillet (or something more authentic if you've got it) over medium heat. Cut dough into about 12 pieces that are round. Use a proper tortilla press (or something more authentic if you've got it) to make 'em flat and then put on the skillet. Wait until the transparent parts turn opaque and flip em. Put cooked tortillas in a *dirty* cloth napkin to keep 'em warm. End recipe. Paz, amor, y dinero.\n", 
+"slug": "bad_ass_tortillas", 
+"name": "bad-ass tortillas", 
+"url": "https://raw.github.com/sinker/tacofancy/master/shells/homemade_tortillas.md"}, 
+
+"mixin": 
+{"recipe": "Sweet Potato and Apple Hash\n===========================\n\nSweet potatoes are my go-to taco punch-up. I was going my normal route of making small (1/4\" or so) cubes of sweet potatoes when I thought: Hey, it's fall, I'm going to add an apple in there. Fuck yes.\n\n* 2 Small sweet potatoes (you'd be amazed how little sweet potato you need for tacos)\n* 1 Small apple\n* One can diced green chilis\n* A couple pinches of chili powder\n* A squeeze of honey\n* Pat o' butter\n\nMix this all into a pan, with about 1/4 cup of water, and boil it all up until the water goes away, toss in the butter, and continue to pan-fry until things get a little browned. \n\ntags: vegetarian\n", 
+"slug": "sweet_potato_and_apple_hash", 
+"name": "Sweet Potato and Apple Hash", 
+"url": "https://raw.github.com/sinker/tacofancy/master/mixins/sweet_potato_and_apple_hash.md"}, 
+
+"seasoning": 
+{"recipe": "Mahi Mahi Rub\n==============\n\nA rub for Mahi Mahi, if fish tacos be what you're fancying:\n\n* 1 Part spicy chili powder\n* 1 Part salt\n* 1 Part ground cumin\n* 1/2 Part chopped cilantro\n* 1/2 Part cayenne\n* 1/2 Part pepper\n* 1/2 Part oregano\n* 1/2 Part onion powder\n* 1/2 Part garlic powder\n\nYou choose your measurements and enjoy!\n\ntags: vegetarian, vegan\n", 
+"slug": "mahi_mahi_rub", 
+"name": "Mahi Mahi Rub", "url": "https://raw.github.com/sinker/tacofancy/master/seasonings/mahimahirub.md"}, 
+
+"condiment": 
+
+{"recipe": "Roasted Tomatillo and Mushroom Sauce\n====================================\n\n* 2 pounds tomatillos\n* 4 dried chipotle chiles\n* 2 pounds shiitake mushrooms\n* 1/4 cup olive oil\n* 1 cup water\n\n1. Remove husks from tomatillos and rinse them. Place them whole on your oven's broiler rack. Broil and turn them until they're browned on all sides.\n2. Boil the water. Drop in the dried chiles and bring the water down to a simmer. Keep them in until they are soft.\n3. Slice the shiitakes and cook them in a pan with the olive oil until they're tender.\n4. Take the chiles and tomatillos (once they're cooled off) and blend them in a food processor until they make a nice puree.\n5. Put the blended tomatillo-chile mixture in a saucepan and bring it to a boil. Add the cooked mushrooms and bring it back to a boil. Then bring the heat down until the mixture is simmering. Cook for about 10 minutes. Add salt to taste.\n\n---\nA friend gave me this recipe a while back, but I can't remember who it was. Sorry, friend.\n\ntags: vegetarian, vegan\n", 
+
+"slug": "roasted_tomatillo_and_mushroom_sauce", 
+
+"name": "Roasted Tomatillo and Mushroom Sauce", 
+
+"url": "https://raw.github.com/sinker/tacofancy/master/condiments/roasted_tomatillo.md"}, 
+
+"base_layer": 
+
+{"recipe": "Seasoned Lentils\n=========================\n\nThis is a quick and easy vegetarian substitute for ground beef that adds an interesting texture and a lot of similar flavor\n\n##### Ingredients\n* 1 packet of Taco Seasoning Mix\n* 1 bag of lentils\n* 1 tbs vegetable oil\n* 1/2 small onion, diced\n* 1 small tomato, diced\n\n##### Directions\n1. Cook lentils according to package directions (generally just boiling in water). Set aside.\n2. In a skillet saut\u00e9 onion and tomato in vegetable oil for a few minutes\n3. Stir in seasoning mix, amount of water specified on mix packet and cooked lentils.\n4. Follow directions on seasoning packet.\n5. Enjoy!\n\ntags: vegetarian, vegan\n", 
+"slug": "seasoned_lentils", 
+"name": "Seasoned Lentils", 
+"url": "https://raw.github.com/sinker/tacofancy/master/base_layers/seasoned_lentils.md"}
+}
